@@ -16,9 +16,9 @@ Our aim is to develop a more accurate and reliable pricing tool by analyzing pas
 
 
 ## Takeaways
-Through these models, one can identify the features that significantly impact the car's selling price, such as make, model, year, odometer readings, and condition
-Ensemble models offer superior performance for complex pricing patterns.
-Accurate price prediction benefits both buyers and sellers in the used car market
+1. Through these models, one can identify the features that significantly impact the car's selling price, such as make, model, year, odometer readings, and condition
+2. Ensemble models offer superior performance for complex pricing patterns.
+3. Accurate price prediction benefits both buyers and sellers in the used car market
 
 
 

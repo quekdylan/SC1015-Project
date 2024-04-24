@@ -12,7 +12,7 @@ Our aim is to develop a more accurate and reliable pricing tool by analyzing pas
 | File        | Description           |
 | ------------- |:-------------:|
 | SC1015 Clean + EDA.ipynb      | Data Cleaning and EDA Notebook |
-| SC1015 Regression Model.ipynb     | Modelling Notebook      |
+| SC1015_Regression_Model.ipynb     | Modelling Notebook      |
 | car_prices.csv | Original dataset      |
 | cleaned_data.csv | Cleaned dataset      |
 

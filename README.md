@@ -1,6 +1,10 @@
 Vehicle Sales Data
 ======
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=z-LrBWfJ45Y
+" target="_blank"><img src="http://img.youtube.com/vi/z-LrBWfJ45Y/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+
 ## Problem 
 In the dynamic automotive market, traditional methods of estimating vehicle prices often overlook crucial factors such as condition, mileage, and brand, leading to inaccurate valuations
   

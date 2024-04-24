@@ -1,6 +1,12 @@
 Vehicle Sales Data
 ======
 
+## Problem 
+In the dynamic automotive market, traditional methods of estimating vehicle prices often overlook crucial factors such as condition, mileage, and brand, leading to inaccurate valuations
+  
+## Goal    
+Our aim is to develop a more accurate and reliable pricing tool by analyzing past vehicle sales transactions, providing valuable insights to buyers
+
 ## Repo directory
 
 | File        | Description           |
@@ -18,17 +24,8 @@ Vehicle Sales Data
 | Dylan Quek | EDA      |
 
 
-
-## Problem 
-In the dynamic automotive market, traditional methods of estimating vehicle prices often overlook crucial factors such as condition, mileage, and brand, leading to inaccurate valuations
-  
-## Goal    
-Our aim is to develop a more accurate and reliable pricing tool by analyzing past vehicle sales transactions, providing valuable insights to buyers
-
 ## Dataset
 [Vehicle Sales Data (Kaggle) ](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/data)
-
-
 
 
 ## Models Used
@@ -38,19 +35,24 @@ Our aim is to develop a more accurate and reliable pricing tool by analyzing pas
 4. Catboost
 
 
-## Takeaways
+## Takeaways & Conclusion
 1. Through these models, one can identify the features that significantly impact the car's selling price, such as make, model, year, odometer readings, and condition
 2. Ensemble models offer superior performance for complex pricing patterns.
 3. Accurate price prediction benefits both buyers and sellers in the used car market
+4. This project demonstrates how machine learning can aid in establishing fair market prices in the used car industry.
 
 
-## Conclusion
+
 
 
 
 ---
 ## References
-1. [Vehicle Sales Data (Kaggle) ]([https://www.google.com](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data))
+1. https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
+2. https://medium.com/nerd-for-tech/catboost-quickstart-ml-classification-f1d7fb70fea8
+3. https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
+4. https://machinelearningmastery.com/modeling-pipeline-optimization-with-scikit-learn/
+5. https://www.kaggle.com/code/datascientistsohail/pipelines-using-simpleimputer-and-onehotencoder
 
 
 
